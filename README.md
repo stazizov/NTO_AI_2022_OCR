@@ -4,7 +4,7 @@ Prize-winner of the National Technological Olympiad in the AI profile
 
 ![alt text](https://github.com/proton-bit/NTO_AI_2022_OCR/blob/main/our_photo.jpg)
 
-##Explanation
+## Explanation
 
 1) MaskRCNN from baseline, improved. When output, we round the polygons using cv2.approlyDP
 2) Retrained model with RCNN hackathon
