@@ -11,4 +11,4 @@ All CRNN trained until lr is less than 1e-6
 
 And finally, we became winners of the National Technological Olympiad in the AI profile
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/proton-bit/NTO_AI_2022_OCR/blob/main/our_photo.jpg)
