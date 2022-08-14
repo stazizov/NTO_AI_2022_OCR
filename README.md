@@ -13,3 +13,7 @@ Prize-winner of the National Technological Olympiad in the AI profile
 5) Ensemble that we choose from: grid_search 1 model, grid_search 2 model, beam_search 1 model
 
 All CRNN trained until lr is less than 1e-6
+
+![inference](https://github.com/proton-bit/NTO_AI_2022_OCR/blob/main/inference_img.jpg)
+
+![CRNN-arch](https://github.com/proton-bit/NTO_AI_2022_OCR/blob/main/CRNN_arcg_img.jpg)
