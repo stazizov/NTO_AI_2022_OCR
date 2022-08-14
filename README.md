@@ -16,7 +16,5 @@ All CRNN trained until lr is less than 1e-6
 
 
 ### here full inference example:
-
-![inference](https://github.com/proton-bit/NTO_AI_2022_OCR/blob/main/inference_img.jpg)
 ![input image](https://github.com/proton-bit/NTO_AI_2022_OCR/blob/main/inference_crnn_x.jpg)
 ![output image](https://github.com/proton-bit/NTO_AI_2022_OCR/blob/main/inference_crnn_y.jpg)
